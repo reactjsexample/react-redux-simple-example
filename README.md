@@ -91,7 +91,7 @@ Open the browser's Developer Tools window to see any errors in the Console.
 
 ## How To Convert a React App to Redux
 
-These are the basic steps to convert your existing Redux app to Redux:
+These are the basic steps to convert your existing React app to Redux:
 
 - [Install Redux](#install-redux) Follow the instructions here.
 - Create the appStore.js.
