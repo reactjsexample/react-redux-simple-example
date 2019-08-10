@@ -28,7 +28,7 @@ If you do get it, you will be coding the wrong way for large scale applications.
 * Does not explain, just shows the code.
 * Gives you 1 way, the best way.
 
-![react-redux-simple-example-screen-shot](https://github.com/reactjsexample/react-redux-simple-example/blob/master/src/assets/images/react-redux-simple-example-screen-shot.png)
+![react-redux-simple-example-screen-shot](https://github.com/reactjsexample/react-redux-simple-example/blob/master/assets/images/react-redux-simple-example-screen-shot.png)
 
 ## Table of Contents
 
