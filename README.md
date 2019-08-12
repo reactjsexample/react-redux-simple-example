@@ -6,27 +6,13 @@ Full source code available at [https://github.com/reactjsexample/react-redux-sim
 
 ## The Best Way To Learn Redux
 
-If you are new to React Redux, this project is the quickest and easiest way to learn React Redux.
-
-I started reading other articles, and most of them, including the offical Redux docs, have problems.
-
-### Bad Things about React Redux Documentation:
-
-* Shows the **wrong way** to code.
-* Tries to explain too many things.
-* Gives you more than 1 way to do it.
-
-All of this takes way too much time to read and understand.
-
-It leaves you more confused than when you started.
-
-If you do get it, you will be coding the wrong way for large scale applications.
+If you are new to React Redux, this project is a quick and easy way to learn React Redux.
 
 ### Good Things About This React Redux Example
 
 * Uses Large Scale Architecture for Redux.
 * Does not explain, just shows the code.
-* Gives you 1 way, the best way.
+* Gives you 1 way, using the latest coding techniques.
 
 ![react-redux-simple-example-screen-shot](https://github.com/reactjsexample/react-redux-simple-example/blob/master/src/assets/images/react-redux-simple-example-screen-shot.png)
 
