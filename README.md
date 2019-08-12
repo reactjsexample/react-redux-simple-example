@@ -13,6 +13,7 @@ If you are new to React Redux, this project is a quick and easy way to learn Rea
 * Uses Large Scale Architecture for Redux.
 * Does not explain, just shows the code.
 * Gives you 1 way, using the latest coding techniques.
+* Lets you compare the same app without Redux to see the differences.
 
 ![react-redux-simple-example-screen-shot](https://github.com/reactjsexample/react-redux-simple-example/blob/master/src/assets/images/react-redux-simple-example-screen-shot.png)
 
